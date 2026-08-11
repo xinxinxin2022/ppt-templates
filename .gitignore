@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+.DS_Store
+public/previews/
+public/ppt-files/
+scripts/upload_release.sh
+scripts/upload_release.py
+scripts/upload_release.sh
+scripts/upload_release.py
